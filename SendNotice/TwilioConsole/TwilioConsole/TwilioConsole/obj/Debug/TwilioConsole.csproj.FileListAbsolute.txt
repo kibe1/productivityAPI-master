@@ -1,0 +1,17 @@
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\TwilioConsole.exe.config
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\TwilioConsole.exe
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\TwilioConsole.pdb
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Newtonsoft.Json.dll
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Twilio.dll
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Newtonsoft.Json.xml
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Twilio.xml
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.csprojAssemblyReference.cache
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.csproj.CoreCompileInputs.cache
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.csproj.CopyComplete
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.exe
+D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.pdb
