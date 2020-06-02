@@ -15,3 +15,19 @@ D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.csproj
 D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.csproj.CopyComplete
 D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.exe
 D:\work\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.pdb
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\TwilioConsole.exe.config
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\TwilioConsole.exe
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\TwilioConsole.pdb
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Twilio.dll
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\bin\Debug\Twilio.xml
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.csprojAssemblyReference.cache
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.csproj.CopyComplete
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.exe
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\TwilioConsole\TwilioConsole\TwilioConsole\obj\Debug\TwilioConsole.pdb

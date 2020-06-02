@@ -112,3 +112,9 @@ D:\STAMLINETECH\API_MASTER\productivityAPI-master\SendNotice\obj\Debug\netcoreap
 D:\STAMLINETECH\API_MASTER\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.dll
 D:\STAMLINETECH\API_MASTER\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.pdb
 D:\STAMLINETECH\API_MASTER\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.genruntimeconfig.cache
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.csprojAssemblyReference.cache
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.AssemblyInfoInputs.cache
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.AssemblyInfo.cs
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.dll
+C:\Users\Erick Cheruiyot\Desktop\Cheru\productivityAPI-master\SendNotice\obj\Debug\netcoreapp3.1\SendNotice.pdb

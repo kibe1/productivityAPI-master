@@ -10,14 +10,14 @@ namespace TwilioConsole
         {
             // Find your Account Sid and Token at twilio.com/console
             // DANGER! This is insecure. See http://twil.io/secure
-            const string accountSid = "AC58f4635b412fea7d8febc46c3f04bb19";
-            const string authToken = "632a1a46b5d89410efa03a16395e6db1";
+            const string accountSid = "AC53b3440528d230b3eb17b6d451d1de75";
+            const string authToken = "4530d0adf788182cc17ad102442b3f64";
 
             TwilioClient.Init(accountSid, authToken);
 
             var message = MessageResource.Create(
                 body: "Hey, Welcome to our new SMS platform. From KIBET",
-                from: new Twilio.Types.PhoneNumber("+18506008350"),
+                from: new Twilio.Types.PhoneNumber("+12067373930"),//short code on a live environment
                 to: new Twilio.Types.PhoneNumber("+254719453783")
             );
 
